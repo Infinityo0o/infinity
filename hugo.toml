@@ -1,0 +1,7 @@
+baseURL = 'https://infinityo0o.github.io/infinity/'
+languageCode = 'en-us'
+title = 'Infinity'
+theme = 'hugo-theme-stack'
+
+[outputs]
+home = ["HTML", "RSS"]
